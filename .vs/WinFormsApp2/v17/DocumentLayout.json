@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Oscar\\source\\repos\\WinFormsApp2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2ABE7B6B-5EE6-4EF4-8DA2-1213127FE945}|WinFormsApp2\\WinFormsApp2.csproj|c:\\users\\oscar\\source\\repos\\winformsapp2\\winformsapp2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ABE7B6B-5EE6-4EF4-8DA2-1213127FE945}|WinFormsApp2\\WinFormsApp2.csproj|solutionrelative:winformsapp2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ABE7B6B-5EE6-4EF4-8DA2-1213127FE945}|WinFormsApp2\\WinFormsApp2.csproj|c:\\users\\oscar\\source\\repos\\winformsapp2\\winformsapp2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2ABE7B6B-5EE6-4EF4-8DA2-1213127FE945}|WinFormsApp2\\WinFormsApp2.csproj|solutionrelative:winformsapp2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ABE7B6B-5EE6-4EF4-8DA2-1213127FE945}|WinFormsApp2\\WinFormsApp2.csproj|c:\\users\\oscar\\source\\repos\\winformsapp2\\winformsapp2\\clscliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ABE7B6B-5EE6-4EF4-8DA2-1213127FE945}|WinFormsApp2\\WinFormsApp2.csproj|solutionrelative:winformsapp2\\clscliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Oscar\\source\\repos\\WinFormsApp2\\WinFormsApp2\\Form1.cs",
+              "RelativeDocumentMoniker": "WinFormsApp2\\Form1.cs",
+              "ToolTip": "C:\\Users\\Oscar\\source\\repos\\WinFormsApp2\\WinFormsApp2\\Form1.cs",
+              "RelativeToolTip": "WinFormsApp2\\Form1.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAwA8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T20:36:52.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "clsCliente.cs",
+              "DocumentMoniker": "C:\\Users\\Oscar\\source\\repos\\WinFormsApp2\\WinFormsApp2\\clsCliente.cs",
+              "RelativeDocumentMoniker": "WinFormsApp2\\clsCliente.cs",
+              "ToolTip": "C:\\Users\\Oscar\\source\\repos\\WinFormsApp2\\WinFormsApp2\\clsCliente.cs",
+              "RelativeToolTip": "WinFormsApp2\\clsCliente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvw8AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T20:16:38.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Oscar\\source\\repos\\WinFormsApp2\\WinFormsApp2\\Form1.cs",
+              "RelativeDocumentMoniker": "WinFormsApp2\\Form1.cs",
+              "ToolTip": "C:\\Users\\Oscar\\source\\repos\\WinFormsApp2\\WinFormsApp2\\Form1.cs [Projeto]",
+              "RelativeToolTip": "WinFormsApp2\\Form1.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T19:58:00.451Z",
+              "EditorCaption": " [Projeto]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
